@@ -5,4 +5,6 @@
 3、哈希锁定（Hash-locking）  
 4、分布式私钥控制（Distributed Private Key Control）  
 
+#### IBC协议
+https://zhuanlan.zhihu.com/p/523778488  
 
