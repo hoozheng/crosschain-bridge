@@ -9,5 +9,9 @@
 https://zhuanlan.zhihu.com/p/523778488  
 https://github.com/cosmos/ibc  
 
+### 跨链交易
+https://zhuanlan.zhihu.com/p/345675188 
+
+
 
 
